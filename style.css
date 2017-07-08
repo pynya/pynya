@@ -1,0 +1,16 @@
+body{
+    background-color: #FF783C;
+   }
+   
+#pynya {
+   text-align:center;
+   }
+
+#fbo {
+    position: fixed;
+	top: 0;
+	left: 0;
+	margin: 60px;
+	margin-left:20px;
+	margin-top:20px;
+   }
